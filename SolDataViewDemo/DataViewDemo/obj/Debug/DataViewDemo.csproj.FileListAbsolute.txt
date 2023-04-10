@@ -1,0 +1,11 @@
+C:\Users\dejan\Desktop\Microsoft Za pristup\DataView\SolDataViewDemo\DataViewDemo\bin\Debug\DataViewDemo.exe.config
+C:\Users\dejan\Desktop\Microsoft Za pristup\DataView\SolDataViewDemo\DataViewDemo\bin\Debug\DataViewDemo.exe
+C:\Users\dejan\Desktop\Microsoft Za pristup\DataView\SolDataViewDemo\DataViewDemo\bin\Debug\DataViewDemo.pdb
+C:\Users\dejan\Desktop\Microsoft Za pristup\DataView\SolDataViewDemo\DataViewDemo\obj\Debug\DataViewDemo.csproj.AssemblyReference.cache
+C:\Users\dejan\Desktop\Microsoft Za pristup\DataView\SolDataViewDemo\DataViewDemo\obj\Debug\DataViewDemo.csproj.SuggestedBindingRedirects.cache
+C:\Users\dejan\Desktop\Microsoft Za pristup\DataView\SolDataViewDemo\DataViewDemo\obj\Debug\DataViewDemo.Form1.resources
+C:\Users\dejan\Desktop\Microsoft Za pristup\DataView\SolDataViewDemo\DataViewDemo\obj\Debug\DataViewDemo.Properties.Resources.resources
+C:\Users\dejan\Desktop\Microsoft Za pristup\DataView\SolDataViewDemo\DataViewDemo\obj\Debug\DataViewDemo.csproj.GenerateResource.cache
+C:\Users\dejan\Desktop\Microsoft Za pristup\DataView\SolDataViewDemo\DataViewDemo\obj\Debug\DataViewDemo.csproj.CoreCompileInputs.cache
+C:\Users\dejan\Desktop\Microsoft Za pristup\DataView\SolDataViewDemo\DataViewDemo\obj\Debug\DataViewDemo.exe
+C:\Users\dejan\Desktop\Microsoft Za pristup\DataView\SolDataViewDemo\DataViewDemo\obj\Debug\DataViewDemo.pdb
